@@ -29,5 +29,5 @@ Vamos nos conectar, posso agregar valor à sua equipe ou projeto. Vamos conversa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
-### 👾 Linguagens mais usada
+### 👾 Linguagens mais usadas
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erico-bruner&layout=compact&theme=dracula"/>
