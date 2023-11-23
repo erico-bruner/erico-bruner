@@ -9,13 +9,15 @@
 
 ### 👾 Sobre mim
 
-Oi! Então, acho que tudo começou quando era pequeno e via aqueles relatos de ataques hackers, e ficava fascinado, depois acabei encontrando o Mr.Robot (Serie ótima por sinal), que acabou fazendo eu criar uns scripts maliciosos para windows e mandar para os meus amigos. Isso me fez querer ser um programador.
+Oi! Então, acho que tudo começou ainda criança, me fascinava com relatos sobre segurança digital e ataques hackers. Essa curiosidade inicial evoluiu de forma positiva, onde eu já fazia meus primeiros scripts, especialmente após me deparar com a série Mr. Robot, que despertou ainda mais meu interesse pela programação.
 
 Mais tarde em 2020, estou fazendo um curso de TI no CEDUP, aprendendo programação mais a sério e com mais didática, dali comecei a estudar Javascript por conta, que foi a linguagem que usei para entregar um TCC nesse curso também. 
 
-Atualmente, estou em uma jornada incrível , fazendo Ciências da Computação e participando de um curso intensivo na Driven com formação em desenvolvimento full stack. Tenho aprendido muito, projetos semanais cada vez mais desafiadores, e recentemente um projeto completo desenvolvido em grupo, aplicando algumas metodologias, testes integrados e muito mais. 
+Atualmente, estou em uma jornada incrível , fazendo Ciências da Computação e participando de um curso intensivo na Driven com formação em desenvolvimento full stack. Tenho aprendido muito, projetos semanais cada vez mais desafiadores, e recentemente um projeto completo desenvolvido em grupo, aplicando algumas metodologias, testes integrados e muito mais. Neste meio aprendi ReactJs, NodeJs, NextJs, Postgres, MongoDB, Typescript. 
 
-Vamos nos conectar, posso agregar valor à sua equipe ou projeto. Vamos conversar! 😊
+Com uma sólida base técnica e um gosto por novos desafios, estou ansioso para colaborar com equipes inovadoras e contribuir para o sucesso de projetos de desenvolvimento de software.
+
+Vamos nos conectar, posso agregar valor à sua equipe ou projeto. Bora bater um papo! 😊
 
 ### 👾 Principais tecnologias
 
